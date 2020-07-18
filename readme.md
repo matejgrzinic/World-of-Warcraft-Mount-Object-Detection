@@ -5,3 +5,5 @@
 Model was trained on darknet of YoloV4 but transformed into tensorflow model for easier access. 
 
 Just run detect_screen.py to automatically detect whats on the screen.
+
+Download zipped model from https://drive.google.com/file/d/15l2t6BTJzbfpoWb_MWNKlZC0-BdTBVHv/view?usp=sharing unzip it and put it into Models folder
